@@ -81,30 +81,6 @@ I've built multiple **machine learning models** spanning various domains—from 
 
 ---
 
-## 🎯 Fun Facts
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Harsh Johiya"
-        self.role = "Aspiring Data Scientist & ML Engineer"
-        self.language_spoken = ["Python", "SQL", "English"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = DataScientist()
-me.say_hi()
-```
-
-💡 I love working with data  
-🎬 Anime enthusiast — always looking for the next great series  
-♟️ Chess player — strategy on the board and in code  
-🔬 I'm a firm believer in continuous learning and experimentation  
-🎮 Hobbies: Kaggle competitions, watching anime, playing chess, exploring new ML libraries  
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
