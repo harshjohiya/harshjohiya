@@ -60,27 +60,6 @@ I'm passionate about leveraging **data** and **machine learning** to solve real-
 
 ---
 
-## 🚀 Projects & Experience
-
-I've built multiple **machine learning models** spanning various domains—from predictive analytics to image classification and sentiment analysis. My focus is always on practical applications that solve tangible problems. While many of my projects are in private repositories as I refine them, I'm actively working on showcasing production-ready implementations.
-
-### 🔍 Areas I've Explored
-
-```
-📊 Predictive Modeling      →  Forecasting outcomes & identifying trends
-💬 Natural Language Processing  →  Text classification & sentiment analysis  
-👁️ Computer Vision         →  Image classification & object detection
-⚙️ Data Pipelines          →  Automated ETL workflows & data processing
-```
-
-<div align="center">
-
-### 👀 [View My Repositories](https://github.com/harshjohiya?tab=repositories)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
