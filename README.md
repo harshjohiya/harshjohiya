@@ -15,7 +15,8 @@
 
 ## 💡 About Me
 
-I'm passionate about leveraging **data** and **machine learning** to solve real-world problems. I design intelligent systems, analyze complex datasets, and transform raw data into actionable insights that drive decisions.
+I am a second-year BS Engineering student at IISER Bhopal, passionate about leveraging data and machine learning to solve real-world problems.
+I design intelligent systems, analyze complex datasets, and transform raw data into actionable insights that drive decisions.
 
 > *"I believe in learning by doing—if an idea comes to mind, I prototype it, test it, and refine it until it works."*
 
