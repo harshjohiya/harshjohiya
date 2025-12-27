@@ -2,13 +2,6 @@
   
 # 👋 Hey there, I'm Harsh Johiya
 
-### 🚀 Aspiring Data Scientist | Machine Learning Engineer | Problem Solver
-
-*Turning data into insights, and insights into impact*
-
-[![GitHub followers](https://img.shields.io/github/followers/harshjohiya?style=social)](https://github.com/harshjohiya)
-[![GitHub stars](https://img.shields.io/github/stars/harshjohiya?style=social)](https://github.com/harshjohiya)
-
 </div>
 
 ---
